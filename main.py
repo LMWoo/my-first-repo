@@ -1,5 +1,5 @@
-for _ in range(3):
-    print('hello')
+from adder import adder
+print(adder(1,2))
 
 
 
